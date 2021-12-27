@@ -1,0 +1,15 @@
+--------------------------------------------------
+ADF Results:
+
+Nonseasonal differences needed for stationarity: 1
+
+Variable: FERTILIZER SALES
+ADF Test: -7.161691
+P-value: 0.000000
+Lags: 11
+Observations: 151
+Critical values:
+  1%: -4.020010
+  5%: -3.439975
+  10%: -3.144352
+--------------------------------------------------

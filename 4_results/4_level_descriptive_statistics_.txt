@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: Fertilizer Sales (level)
+Mean: 2616222.11
+Median: 2461084.50
+Sample std: 934110.39
+Variance: 872562219013.40
+Lowest: 977397.00
+Highest: 5058905.00
+--------------------------------------------------
